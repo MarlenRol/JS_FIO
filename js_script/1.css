@@ -1,0 +1,13 @@
+* {
+  padding: 5px;
+  margin: 5px;
+  padding-right: 20px;
+}
+body {
+  background: rgb(132, 149, 216);
+}
+.photo {
+  height: 200px;
+  width: 300px;
+  float: left;
+}
